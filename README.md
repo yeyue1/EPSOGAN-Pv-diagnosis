@@ -85,6 +85,3 @@ The quality of generated data is assessed using:
 
 Downstream task performance is evaluated using Accuracy, Recall, and F1-Score on various classifiers. See Tables \ref{tbl:isd_comprehensive} and \ref{tbl:bsd_comprehensive} in the paper for detailed results.
 
-## Contact
-
-If you have any questions regarding the methodology or code implementation (excluding data requests), you can contact us via contact@example.com.
